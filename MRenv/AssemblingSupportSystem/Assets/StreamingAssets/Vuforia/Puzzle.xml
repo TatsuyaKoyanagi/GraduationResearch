@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dataset_t" size="230.000000 230.000000" />
+    <ImageTarget name="dataset_o" size="230.000000 230.000000" />
+    <ImageTarget name="dataset_l" size="230.000000 230.000000" />
+    <ImageTarget name="dataset_j" size="230.000000 230.000000" />
+    <ImageTarget name="dataset_i" size="230.000000 230.000000" />
+  </Tracking>
+</QCARConfig>
