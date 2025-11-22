@@ -14,9 +14,8 @@
 ![システム概要](./images/systemview.png "システム概要")
 
 ## 紹介動画(English)
-<iframe width="560" height="315" src="https://youtu.be/XVHCudhtdko?si=wegUWTtbsIYSvQMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![紹介動画](./images/Thumbnail.png "紹介動画")](https://youtu.be/XVHCudhtdko?si=wegUWTtbsIYSvQMw)
 
-<!-- GitHub README では iframe が無効化される場合があるため、代替リンクを併記 -->
 [YouTubeで見る](https://youtu.be/XVHCudhtdko?si=wegUWTtbsIYSvQMw)
 
 ## 学会発表
